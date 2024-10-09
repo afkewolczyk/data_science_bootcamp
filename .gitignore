@@ -1,0 +1,8 @@
+env/
+env/lib
+matplotlib-images/
+*.csv
+*.png
+.DS_Store
+*.dylib
+.ipynb_checkpoints/
